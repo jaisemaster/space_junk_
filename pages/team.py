@@ -48,10 +48,10 @@ GITHUB = ('<svg width="22" height="22" viewBox="0 0 16 16" fill="#ffffff"><path 
           '0016 8c0-4.42-3.58-8-8-8z"/></svg>')
 
 team = [
-    ("M.ARMAAN", "Frontend Developer"),
-    ("JAISE.B.THOMAS", "Backend Developer"),
-    ("NIHITH AKSHAY", "ML / AI Engineer"),
-    ("ATUL SHRIVASTAVA", "UI/UX Designer"),
+    ("M.ARMAAN", "MEMBER 1"),
+    ("JAISE BIJU THOMAS", "MEMBER 2"),
+    ("NIHITH AKSHAY", "MEMBER 3"),
+    ("ATUL SHRIVASTAVA", "MEMBER 4"),
 ]
 
 cols = st.columns(4, gap="medium")
