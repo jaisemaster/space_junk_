@@ -1,6 +1,6 @@
-  streamlit
-  numpy
-  pandas
-  plotly
-  scipy
-  skyfield
+   streamlit
+   numpy
+   pandas
+   plotly
+   scipy
+   skyfield
