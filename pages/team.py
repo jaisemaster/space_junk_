@@ -51,6 +51,7 @@ team = [
     ("M.ARMAAN", "MEMBER 1"),
     ("JAISE BIJU THOMAS", "MEMBER 2"),
     ("ATUL SHRIVASTAVA", "MEMBER 3"),
+    ("NIHITH AKSHAY","MEMBER 4"),
 ]
 
 cols = st.columns(4, gap="medium")
